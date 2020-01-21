@@ -1,11 +1,11 @@
 {
   "name": "Sulfurification",
-  "version": "1.0.0",
-  "factorio_version": "0.17",
+  "version": "1.0.1",
+  "factorio_version": "0.18",
   "title": "Sulfurification",
   "author": "UgurG",
   "contact": "",
   "homepage": "",
   "description": "Adds more sulfur recipes to make game challenging, and at the same time easy.",
-  "dependencies": ["base >= 0.17.0"]
+  "dependencies": ["base >= 0.18.0"]
 }
